@@ -1,0 +1,5 @@
+# Ingora checkpoints de Jupiter
+.ipynb_checkpoints
+
+# Ignora entornos virtuales
+venv
